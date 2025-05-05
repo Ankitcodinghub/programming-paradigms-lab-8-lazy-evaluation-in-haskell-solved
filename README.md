@@ -1,0 +1,1 @@
+# programming-paradigms-lab-8-lazy-evaluation-in-haskell-solved
